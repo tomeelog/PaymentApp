@@ -1,0 +1,13 @@
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\bin\Debug\netcoreapp3.1\RSAGenerator.exe
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\bin\Debug\netcoreapp3.1\RSAGenerator.deps.json
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\bin\Debug\netcoreapp3.1\RSAGenerator.runtimeconfig.json
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\bin\Debug\netcoreapp3.1\RSAGenerator.runtimeconfig.dev.json
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\bin\Debug\netcoreapp3.1\RSAGenerator.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\bin\Debug\netcoreapp3.1\RSAGenerator.pdb
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\obj\Debug\netcoreapp3.1\RSAGenerator.csprojAssemblyReference.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\obj\Debug\netcoreapp3.1\RSAGenerator.AssemblyInfoInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\obj\Debug\netcoreapp3.1\RSAGenerator.AssemblyInfo.cs
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\obj\Debug\netcoreapp3.1\RSAGenerator.csproj.CoreCompileInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\obj\Debug\netcoreapp3.1\RSAGenerator.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\obj\Debug\netcoreapp3.1\RSAGenerator.pdb
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\RSAKeyGenerator\RSAGenerator\obj\Debug\netcoreapp3.1\RSAGenerator.genruntimeconfig.cache

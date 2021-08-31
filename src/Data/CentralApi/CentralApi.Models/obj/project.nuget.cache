@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5aIshEZMT1z/z6MYMUPbngmoI+7E0JPTjNUlpp4o6qLMjNWqnEDCeQARFsQWDQ0ChTzd3NvNWQ8uMVRah+42w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Models\\CentralApi.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuelbabalola\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

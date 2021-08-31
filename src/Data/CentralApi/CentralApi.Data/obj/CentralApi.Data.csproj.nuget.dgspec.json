@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Data\\CentralApi.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Data\\CentralApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Data\\CentralApi.Data.csproj",
+        "projectName": "CentralApi.Data",
+        "projectPath": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Data\\CentralApi.Data.csproj",
+        "packagesPath": "C:\\Users\\samuelbabalola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\samuelbabalola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Models\\CentralApi.Models.csproj": {
+                "projectPath": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Models\\CentralApi.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Models\\CentralApi.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Models\\CentralApi.Models.csproj",
+        "projectName": "CentralApi.Models",
+        "projectPath": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Models\\CentralApi.Models.csproj",
+        "packagesPath": "C:\\Users\\samuelbabalola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samuelbabalola\\Downloads\\BankSystem-master\\src\\Data\\CentralApi\\CentralApi.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\samuelbabalola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

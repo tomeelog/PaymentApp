@@ -1,0 +1,14 @@
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\bin\Debug\netstandard2.1\BankSystem.Data.deps.json
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\bin\Debug\netstandard2.1\BankSystem.Data.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\bin\Debug\netstandard2.1\BankSystem.Data.pdb
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\bin\Debug\netstandard2.1\BankSystem.Common.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\bin\Debug\netstandard2.1\BankSystem.Models.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\bin\Debug\netstandard2.1\BankSystem.Models.pdb
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\bin\Debug\netstandard2.1\BankSystem.Common.pdb
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\obj\Debug\netstandard2.1\BankSystem.Data.csprojAssemblyReference.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\obj\Debug\netstandard2.1\BankSystem.Data.AssemblyInfoInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\obj\Debug\netstandard2.1\BankSystem.Data.AssemblyInfo.cs
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\obj\Debug\netstandard2.1\BankSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\obj\Debug\netstandard2.1\BankSystem.Data.csproj.CopyComplete
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\obj\Debug\netstandard2.1\BankSystem.Data.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\BankSystem\BankSystem.Data\obj\Debug\netstandard2.1\BankSystem.Data.pdb

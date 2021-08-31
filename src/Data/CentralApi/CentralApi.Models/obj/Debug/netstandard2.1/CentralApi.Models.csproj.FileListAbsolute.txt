@@ -1,0 +1,9 @@
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\bin\Debug\netstandard2.1\CentralApi.Models.deps.json
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\bin\Debug\netstandard2.1\CentralApi.Models.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\bin\Debug\netstandard2.1\CentralApi.Models.pdb
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\obj\Debug\netstandard2.1\CentralApi.Models.csprojAssemblyReference.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\obj\Debug\netstandard2.1\CentralApi.Models.AssemblyInfoInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\obj\Debug\netstandard2.1\CentralApi.Models.AssemblyInfo.cs
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\obj\Debug\netstandard2.1\CentralApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\obj\Debug\netstandard2.1\CentralApi.Models.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Data\CentralApi\CentralApi.Models\obj\Debug\netstandard2.1\CentralApi.Models.pdb

@@ -1,0 +1,9 @@
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\bin\Debug\netstandard2.1\BankSystem.Common.deps.json
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\bin\Debug\netstandard2.1\BankSystem.Common.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\bin\Debug\netstandard2.1\BankSystem.Common.pdb
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\obj\Debug\netstandard2.1\BankSystem.Common.csprojAssemblyReference.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\obj\Debug\netstandard2.1\BankSystem.Common.AssemblyInfoInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\obj\Debug\netstandard2.1\BankSystem.Common.AssemblyInfo.cs
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\obj\Debug\netstandard2.1\BankSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\obj\Debug\netstandard2.1\BankSystem.Common.dll
+C:\Users\samuelbabalola\Downloads\BankSystem-master\src\Common\BankSystem.Common\obj\Debug\netstandard2.1\BankSystem.Common.pdb
